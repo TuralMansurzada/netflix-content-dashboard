@@ -2,7 +2,7 @@
 
 Interactive, single-file HTML analytics dashboard exploring Netflix's global content catalog (8,807 titles, 2008–2021) — with an embedded **AI Agent** that answers natural-language questions about the data in real time.
 
-**[🔴 Live Demo](#)** · (https://github.com/TuralMansurzada)
+**[🔴 Live Demo](#)** · ([https://github.com/TuralMansurzada](https://turalmansurzada.github.io/netflix-content-dashboard/))
 
 ![Dashboard preview](cover.png)
 
