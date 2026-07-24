@@ -2,7 +2,7 @@
 
 Interactive, single-file HTML analytics dashboard exploring Netflix's global content catalog (8,807 titles, 2008–2021) — with an embedded **AI Agent** that answers natural-language questions about the data in real time.
 
-**[🔴 Live Demo](#)** · *(add your GitHub Pages link here once deployed — see setup below)*
+**[🔴 Live Demo](#)** · (https://github.com/TuralMansurzada)
 
 ![Dashboard preview](cover.png)
 
@@ -56,18 +56,11 @@ All filters are global — every chart, KPI, and the AI Agent itself respect the
 No installation needed — it's a single HTML file with the dataset and Chart.js bundled inline.
 
 ```bash
-git clone https://github.com/<your-username>/netflix-content-dashboard.git
+git clone https://github.com/<turalmansurzada>/netflix-content-dashboard.git
 cd netflix-content-dashboard
 open index.html   # or just double-click the file
 ```
 
-## 🌐 Deploying on GitHub Pages
-
-1. Push this repo to GitHub (see commands below)
-2. Go to **Settings → Pages**
-3. Under "Build and deployment", set **Source: Deploy from a branch**, branch: `main`, folder: `/root`
-4. Rename `dashboard_netflix.html` to `index.html` (GitHub Pages serves `index.html` by default) if not already named so
-5. Your live link will be `https://<your-username>.github.io/netflix-content-dashboard/`
 
 ## 📁 Data Source
 
