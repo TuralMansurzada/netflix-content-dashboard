@@ -51,17 +51,6 @@ Rather than a static set of charts, the dashboard includes a **rule-based natura
 
 All filters are global — every chart, KPI, and the AI Agent itself respect the currently active filter state.
 
-## 🚀 Running Locally
-
-No installation needed — it's a single HTML file with the dataset and Chart.js bundled inline.
-
-```bash
-git clone https://github.com/<turalmansurzada>/netflix-content-dashboard.git
-cd netflix-content-dashboard
-open index.html   # or just double-click the file
-```
-
-
 ## 📁 Data Source
 
 [Netflix Movies and TV Shows dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows) (Kaggle, public domain / community dataset).
